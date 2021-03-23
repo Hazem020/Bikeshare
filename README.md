@@ -27,7 +27,7 @@ The Chicago and New York City files also have the following two columns:
 ![Data for the first 10 rides in the new_york_city.csv file ](https://video.udacity-data.com/topher/2018/March/5aa771dc_nyc-data/nyc-data.png)
 Data for the first 10 rides in the new_york_city.csv file
 
-##Statistics Computed
+## Statistics Computed
 You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
 
 **#1 Popular times of travel (i.e., occurs most often in the start time)**
